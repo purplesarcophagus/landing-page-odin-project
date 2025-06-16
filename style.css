@@ -1,0 +1,44 @@
+body {
+    font-family: Roboto;
+}
+
+h1 { 
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.top {
+    background-color: #1f2937;
+}
+
+.header {
+    display: flex;
+}
+
+.hero-p, .header-link {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.signup-button, .call-to-action {
+    color: #3882f6;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    background-color: #e5e7eb;
+}
