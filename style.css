@@ -68,6 +68,18 @@
     margin-top: 15px;
 }
 
+.info-pics {
+    display: flex;
+    gap: 15px;
+}
+
+.info-pic-and-subtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .info-pic {
     width: 100px;
     height: 100px;
