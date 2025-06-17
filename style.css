@@ -156,5 +156,13 @@
     background-color: #3882f6;
     color: white;
     padding: 5px 25px;
+}
 
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
 }
