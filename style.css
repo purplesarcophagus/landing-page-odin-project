@@ -27,6 +27,11 @@
     gap: 24px;
 }
 
+.hero {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .sign-up-button {
     background-color: #3882f6;
 }
