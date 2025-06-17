@@ -4,3 +4,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.h-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.h-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.sign-up-button {
+    background-color: #3882f6;
+}
