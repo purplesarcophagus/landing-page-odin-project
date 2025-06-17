@@ -3,6 +3,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #1f2937;
+}
+
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .h-logo {
@@ -10,7 +17,7 @@
     color: #f9faf8;
 }
 
-.h-text {
+.h-subtext {
     font-size: 18px;
     color: #e5e7eb;
 }
