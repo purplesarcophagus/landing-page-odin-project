@@ -27,9 +27,20 @@
     gap: 24px;
 }
 
-.hero {
+.hero-div {
     display: flex;
     justify-content: space-evenly;
+    gap: 24px;
+}
+
+.hero-h {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.hero-text{
+
 }
 
 .hero-img {
