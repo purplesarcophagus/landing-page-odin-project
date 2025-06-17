@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
 }
 
 .h-and-hero {
@@ -65,4 +64,10 @@
 
 .sign-up-button {
     background-color: #3882f6;
+    color: #e5e7eb;
+    font-weight: 500;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px 20px;
+    margin-top: 15px;
 }
